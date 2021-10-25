@@ -1,0 +1,7 @@
+According to the [[Stoicism|Stoics']] [[dichotomy of control]] (DOC), we should focus on (improving) what is in our control. But what does control mean?
+Interpreting control as what we can change with the click of the fingers, would limit the applicability of the DOC to a narrow range of topics/aspects, thereby limiting its usefulness as a concept for personal improvement.
+Instead, [Gregory Sadler](https://modernstoicism.com/what-many-people-misunderstand-about-the-stoic-dichotomy-of-control-by-michael-tremblay/) reminds us that one of the clearest description of the DOC (first verses in [[Epictetus]]'s Enchridion) refers to things which are _up to us_. Therefore, in the context of the DOC, we should focus on things which are up to us, i.e. dependent on us (or caused by us), even we can't change them in the blink of an eye. Yet another way would be to say we should focus on things which do not depend on external factors.
+Take our emotions, for example. We can't really _control_ them, yet they are not dependent on any external factors. Therefor, in the context of the DOC, we should consider our emotions as something we can (and should) work on improving, even if it takes a while.
+
+_____________
+tags: #idea 

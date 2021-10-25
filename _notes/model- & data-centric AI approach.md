@@ -1,0 +1,7 @@
+_____________
+source: mail Ariel dd. 2021-08-29
+_____________
+
+Since our very beginning as an A.I. organization, our A.I. strategy included extensive work and research aimed to improve our A.I. accuracy through two different approaches. The first approach focuses on developing the A.I. models, and is called the model-centric approach. The second approach focuses on improving the A.I. accuracy by improving the quality of the datasets we are developing in order to train and test our models - we call this approach The Data-Centric A.I. approach. This focus resulted in an extremely high level of collaboration between our A.I. Engineering and Dataset Development teams in MDR. 
+While the model-centric approach is highly studied in the A.I. industry and academy, the Data-Centric A.I. approach is rarely studied in the A.I. world. The focus on the Data-Centric approach was a key factor in our success in building first-class A.I. algorithms so far, and is a strategic differentiator.
+Since our very beginning as an A.I. organization, our A.I. strategy included extensive work and research aimed to improve our A.I. accuracy through two different approaches. The first approach focuses on developing the A.I. models, and is called the model-centric approach. The second approach focuses on improving the A.I. accuracy by improving the quality of the datasets we are developing in order to train and test our models - we call this approach The Data-Centric A.I. approach.

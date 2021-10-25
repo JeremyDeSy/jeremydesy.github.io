@@ -1,0 +1,4 @@
+- trust vs [[automation bias]]
+	- [[Six levels of vehicle autonomy]] (https://www.synopsys.com/automotive/autonomous-driving-levels.html)
+- sites wanting to do research
+	- any kind of study is costly for us. As we grow more mature as a company (and increase the number of partnership), we have to balance all of these costs against our limited resources. Therefore, we typically try to focus - in the initial phase of a partnership - on studies requiring fewer resources on our end, and with the biggest potential to show impact/benefits. Once we have sealed the partnership for the longer term, we can consider more costly initiatives

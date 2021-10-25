@@ -1,0 +1,2 @@
+The second law of thermodynamics states that the [[entropy]] of a closed system can never decrease.
+This means that without energy being added from the outside, the overall entropy of the system will increase over time, towards [[equilibrium]].
