@@ -1,8 +1,7 @@
 ___
 title : Welcome to my digital garden
-status: #budding  
-date-created: 2021-04-15
-date-modified: 2021-10-23
+notetype: feed
+date: 25-10-2021
 ___
 
 **Welcome to my digital garden**
