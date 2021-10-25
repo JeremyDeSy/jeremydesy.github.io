@@ -1,8 +1,8 @@
-______________
-status: #budding 
-created: 2021-04-10
-last-updated: 2021-10-21
-_______________
+---
+title : Mission statement
+notetype: feed
+date: 25-10-2021
+---
 
 My [[second brain]] has two main functions:
 1. A Personal Knowledge Management (PKM) system
